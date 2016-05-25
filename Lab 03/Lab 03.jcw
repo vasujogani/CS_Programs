@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Lab 03</label>
+	</settings>
+	<users>
+		<user>
+			<path>Lab 03.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Lab 03.jcp</path>
+		</project>
+		<project>
+			<path>..\Lab 04\Lab 04.jcp</path>
+		</project>
+	</projects>
+</workspace>
