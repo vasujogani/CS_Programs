@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>ArrayPlotter</label>
+	</settings>
+	<users>
+		<user>
+			<path>ArrayPlotter.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ArrayPlotter.jcp</path>
+		</project>
+	</projects>
+</workspace>

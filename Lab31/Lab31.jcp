@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Lab31</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>Lab31</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>ISet.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lab31.java</path>
+			</fileitem>
+			<fileitem>
+				<path>ListSet.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks>
+		<todotaskitem>
+			<description>TODO: implement this</description>
+			<filepath>ListSet.java</filepath>
+			<line>11</line>
+			<timestamp>1458337863</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO: implement this</description>
+			<filepath>ListSet.java</filepath>
+			<line>16</line>
+			<timestamp>1458337863</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO: implement this</description>
+			<filepath>ListSet.java</filepath>
+			<line>22</line>
+			<timestamp>1458337863</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO: implement this</description>
+			<filepath>ListSet.java</filepath>
+			<line>28</line>
+			<timestamp>1458337863</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO: implement this</description>
+			<filepath>ListSet.java</filepath>
+			<line>34</line>
+			<timestamp>1458337863</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO: implement this</description>
+			<filepath>ListSet.java</filepath>
+			<line>40</line>
+			<timestamp>1458337863</timestamp>
+		</todotaskitem>
+	</tasks>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Lab11</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="TestRunner"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param>H:\cs3\Lab11\TestRunner.java</param>
+			<run>TestRunner</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>CircularLinkedList.java</path>
+			</fileitem>
+			<fileitem>
+				<path>IList.java</path>
+			</fileitem>
+			<fileitem>
+				<path>TestRunner.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks/>
+</project>
