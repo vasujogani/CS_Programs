@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Lab30</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>Lab30</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>IconPanel.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Lab30.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks>
+		<todotaskitem>
+			<description>TODO: change this to create a default palette that sets values for the keys &quot;a&quot;, &quot;b&quot;, and &quot;c&quot;</description>
+			<filepath>IconPanel.java</filepath>
+			<line>27</line>
+			<timestamp>1458576697</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO: replace these if/else statements with *one line of code* that uses the palette</description>
+			<filepath>IconPanel.java</filepath>
+			<line>53</line>
+			<timestamp>1458576697</timestamp>
+		</todotaskitem>
+		<todotaskitem>
+			<description>TODO: create a Map that maps the Strincs &quot;a&quot;, &quot;h&quot;, and &quot;g&quot; to three different Color objects</description>
+			<filepath>Lab30.java</filepath>
+			<line>47</line>
+			<timestamp>1458578551</timestamp>
+		</todotaskitem>
+	</tasks>
+</project>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>ChatBox</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items>
+		<item run="ChatBox"/>
+		<item run="GUIPrac"/>
+		<item run="components.DialogDemo"/>
+		<item run="NamePrompt"/>
+	</run_items>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>ChatBox</run>
+			<verify>true</verify>
+		</runtime>
+		<runtime>
+			<label>GUIPractrice</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>GUIPrac</run>
+			<verify>true</verify>
+		</runtime>
+		<runtime>
+			<label>ChatBOX</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>ChatBox</run>
+			<verify>true</verify>
+		</runtime>
+		<runtime>
+			<label>Nameprompt</label>
+			<application_ref>&lt;Default&gt;</application_ref>
+			<applet_ref>&lt;Default&gt;</applet_ref>
+			<debugger_ref>&lt;Default&gt;</debugger_ref>
+			<param/>
+			<run>NamePrompt</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>Action.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Appender.java</path>
+			</fileitem>
+			<fileitem>
+				<path>ChatBox.java</path>
+			</fileitem>
+			<fileitem>
+				<path>CustomDialog.java</path>
+			</fileitem>
+			<fileitem>
+				<path>DialogDemo.java</path>
+			</fileitem>
+			<fileitem>
+				<path>FancyButton.java</path>
+			</fileitem>
+			<fileitem>
+				<path>NamePrompt.java</path>
+			</fileitem>
+			<fileitem>
+				<path>SubmitButton.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks>
+		<todotaskitem>
+			<description>TODO Auto-generated method stub</description>
+			<filepath>SubmitButton.java</filepath>
+			<line>42</line>
+			<timestamp>1460045728</timestamp>
+		</todotaskitem>
+	</tasks>
+</project>
