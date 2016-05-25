@@ -1,0 +1,29 @@
+714, 171 Boston
+385, 412 Austin
+286, 510 Juneau
+94, 79 Olympia
+89, 129 Salem
+79, 226 Sacramento
+192, 344 Pheonix
+108, 224 Carson City
+165, 166 Boise
+218, 117 Helena
+296, 218 Cheyenne
+286, 253 Denver
+401, 335 Oklahoma City
+407, 272 Topeka
+404, 241 Lincoln
+340, 177 Pierre
+340, 127 Bismark
+441, 167 St Paul
+429, 218 Des Moines
+455, 344 Little Rock
+486, 418 Baton Rouge
+498, 379 Jackson
+546, 374 Montgomery
+572, 345 Atlanta
+585, 405 Tallahasse
+625, 342 Columbia
+543, 314 Nshville
+552, 282 Frankfort
+653, 305 Raleigh

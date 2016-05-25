@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project>
+	<settings>
+		<label>Lab22</label>
+		<root_path>\</root_path>
+		<output_path>classes\</output_path>
+		<source_path>\</source_path>
+		<jdkprofile_ref/>
+		<compiler_ref/>
+		<ant_ref/>
+	</settings>
+	<ant_events/>
+	<run_items/>
+	<runtimes>
+		<runtime>
+			<label>&lt;Default&gt;</label>
+			<application_ref/>
+			<applet_ref/>
+			<debugger_ref/>
+			<param/>
+			<run>Runner</run>
+			<verify>true</verify>
+		</runtime>
+	</runtimes>
+	<libraries/>
+	<files>
+		<include>
+			<fileitem>
+				<path>BlockedTile.java</path>
+			</fileitem>
+			<fileitem>
+				<path>GraphArtist.java</path>
+			</fileitem>
+			<fileitem>
+				<path>IGraph.java</path>
+			</fileitem>
+			<fileitem>
+				<path>IGraphable.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Location.java</path>
+			</fileitem>
+			<fileitem>
+				<path>OpenTile.java</path>
+			</fileitem>
+			<fileitem>
+				<path>PriorityIndex.java</path>
+			</fileitem>
+			<fileitem>
+				<path>Runner.java</path>
+			</fileitem>
+			<fileitem>
+				<path>TestGraph.java</path>
+			</fileitem>
+		</include>
+	</files>
+	<tasks>
+		<todotaskitem>
+			<description>TODO: use A* Algorithm to find shortest path from Start to Goal</description>
+			<filepath>Runner.java</filepath>
+			<line>74</line>
+			<timestamp>1457131350</timestamp>
+		</todotaskitem>
+	</tasks>
+</project>
