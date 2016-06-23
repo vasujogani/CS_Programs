@@ -7,3 +7,6 @@ H:\cs3\Lab22\OpenTile.java
 H:\cs3\Lab22\PriorityIndex.java
 H:\cs3\Lab22\Runner.java
 H:\cs3\Lab22\TestGraph.java
+
+
+//These are the files for maze maker...
